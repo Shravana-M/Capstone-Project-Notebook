@@ -1,0 +1,15 @@
+Capstone Project
+
+
+Business Problem
+
+Exploring Vegetarian/vegan venues in Toronto, Canada using Foursquare.
+Toronto is the capital city of the Canadian province of Ontario. it is the most populous city in Canada . Toronto is the leading tourism destination in Canada. In 2018, Toronto welcomed over 27.5 million visitors. 9.5 million were overnight visitors; 18.1 million were day visitors. Total hotel nights sold reached 6.4 million. $6.5 billion dollars in visitor spending.
+Finding vegetarian/Vegan food option is one of the challenges for vegetarian/vegan tourist. So we are explore information of vegetarian/vegan restaurants in Toronto.
+
+Interested audience
+Tourist to Canada with food preference vegetarian/vegan
+
+Data source
+Using four square’s API for venue category and Wikipedia for location (longitude and latitude)
+
